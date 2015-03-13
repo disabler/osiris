@@ -4,8 +4,8 @@ Jabber bot for roster with rss/atom feeds, translate and multi-jid control featu
 ## Requirements
 
 - Python >= 2.7 (Not 3.x)
-- Subversion
-- Linux/*BSD/*NIX system :)
+- Git
+- Linux | *BSD | *NIX system :)
 
 ## Installation
 ```
